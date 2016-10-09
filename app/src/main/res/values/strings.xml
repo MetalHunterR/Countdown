@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Countdown</string>
+    <string name="time_remaining">Time Remaining</string>
+    <string name="_00_30">00:30</string>
+</resources>
